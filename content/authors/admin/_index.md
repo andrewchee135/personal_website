@@ -17,10 +17,10 @@ social:
     link: https://www.linkedin.com/in/andrew-chee1
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=Ye48ecQAAAAJ&hl=en&oi=ao
+#  - icon: github
+#    icon_pack: fab
+#    link: https://https://github.com/andrewchee135
 organizations:
   - name: Cornell University
     url: https://www.orie.cornell.edu/orie
@@ -32,9 +32,9 @@ education:
     - course: B.S. Business and Political Economy
       institution: NYU, Stern School of Business
       year: 2016
-    - course: B.A.  
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.A. Mathematics
+      institution: New York University
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
