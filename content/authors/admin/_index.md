@@ -1,7 +1,7 @@
 ---
 title: Andrew Chee
 role: Ph.D. Operations Research
-avatar_filename: profile.jpeg
+avatar_filename: profile.jpg
 bio: My research interests include stochastic processes, spectral theory,
   probability and random matrix theory.
 interests:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. Operations Research
       institution: Cornell University
-      year: 2023
+      year: Expected 2023
     - course: B.S. Business and Political Economy
       institution: NYU, Stern School of Business
       year: 2016
