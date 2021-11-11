@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/andrew-chee1
+    link: https://www.linkedin.com/in/andrew-chee1
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
