@@ -1,9 +1,9 @@
 ---
 title: Andrew Chee
-role: Ph.D Operations Research
+role: PhD Operations Research
 avatar_filename: chee-andrew-4465-360x360.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include stochastic processes, spectral theory,
+  probability and random matrix theory.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
