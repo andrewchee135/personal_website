@@ -1,7 +1,7 @@
 ---
 title: Andrew Chee
-role: PhD Operations Research
-avatar_filename: chee-andrew-4465-360x360.jpeg
+role: Ph.D. Operations Research
+avatar_filename: profile.jpeg
 bio: My research interests include stochastic processes, spectral theory,
   probability and random matrix theory.
 interests:
@@ -26,13 +26,13 @@ organizations:
     url: https://www.orie.cornell.edu/orie
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: Ph.D. Operations Research
+      institution: Cornell University
+      year: 2023
+    - course: B.S. Business and Political Economy
+      institution: NYU, Stern School of Business
+      year: 2016
+    - course: B.A.  
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
