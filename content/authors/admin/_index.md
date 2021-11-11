@@ -1,6 +1,6 @@
 ---
 title: Andrew Chee
-role: Ph.D Operations Research, Cornell University
+role: Ph.D Operations Research
 avatar_filename: chee-andrew-4465-360x360.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
