@@ -1,7 +1,7 @@
 ---
 title: Andrew Chee
 role: Ph.D. Operations Research
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpeg
 bio: My research interests include stochastic processes, spectral theory,
   probability and random matrix theory.
 interests:
