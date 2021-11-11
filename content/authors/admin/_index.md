@@ -1,7 +1,7 @@
 ---
 title: Andrew Chee
 role: Ph.D. Operations Research
-avatar_filename: 'icon.png'
+avatar_filename: "icon.png"
 bio: My research interests include stochastic processes, spectral theory,
   probability and random matrix theory.
 interests:
@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.com/citations?user=Ye48ecQAAAAJ&hl=en&oi=ao
 #  - icon: github
 #    icon_pack: fab
-#    link: https://https://github.com/andrewchee135
+#    link: https://github.com/andrewchee135
 organizations:
   - name: Cornell University
     url: https://www.orie.cornell.edu/orie
